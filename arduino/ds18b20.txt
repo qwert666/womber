@@ -1,0 +1,11 @@
+
+* http://www.flickr.com/photos/sctv/3138287688/
+* http://www.arduino.cc/playground/Learning/OneWire
+* http://www.sparkfun.com/commerce/product_info.php?products_id=245
+* http://www.nuelectronics.com/estore/index.php?main_page=product_info&cPath=4&products_id=5
+* http://blog.troyadams.ca/category/arduino/
+* http://www.arduinovideos.com/Atmega32-+-DS18B20__r3dbaBD1840.html?video_id=r3dbaBD1840
+* http://www.maxim-ic.com/appnotes.cfm/appnote_number/3989
+* http://www.arunet.co.uk/tkboyd/e1didx.htm
+* http://diyistheway.blogspot.com/2009/03/thermosmart.html
+* http://solderintheveins.co.uk/?p=64#more-64
