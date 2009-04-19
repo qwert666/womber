@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0ea642fa-2e94-48d9-b339-65f18bdbf36a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1675/TempService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TempService.wsdl" MetadataType="Wsdl" ID="0ed853b5-259c-46ff-835f-73d0409649dd" SourceId="1" SourceUrl="http://localhost:1675/TempService.svc?wsdl" />
+    <MetadataFile FileName="TempService.xsd" MetadataType="Schema" ID="306ebbbc-9b3b-42f8-8287-c8e2dab74ac2" SourceId="1" SourceUrl="http://localhost:1675/TempService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TempService.disco" MetadataType="Disco" ID="b8bfe503-c537-435a-b890-6ae5a7e8d31f" SourceId="1" SourceUrl="http://localhost:1675/TempService.svc?disco" />
+    <MetadataFile FileName="TempService1.xsd" MetadataType="Schema" ID="cd24b6ac-d66b-4384-b387-ee677831a363" SourceId="1" SourceUrl="http://localhost:1675/TempService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
