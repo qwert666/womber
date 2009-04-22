@@ -6,7 +6,7 @@
 //#ifdef DEBUG
 //#endif
 
-OneWire ds(3);  // on pin 10
+OneWire ds(3);  // on pin 3
 
 void setup(void) {
   // initialize inputs/outputs
